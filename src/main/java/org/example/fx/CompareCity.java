@@ -2,6 +2,9 @@ package org.example.fx;
 
 import java.util.Scanner;
 
+// telescope.com.ng
+
+
 public class CompareCity {
 
     public static void main(String[] args) {
